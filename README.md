@@ -1,6 +1,6 @@
 # Projeto Estoque de bebidas/Spring Boot 🎓🎓
 <div>
-   <img aling='center' alt= 'JAVA' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
+  
    <img aling='center' alt= 'SPRING' src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
 </div>  
 
